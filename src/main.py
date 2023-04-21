@@ -1,3 +1,2 @@
 def myfunc():
    # TODO
-   pass
